@@ -1,6 +1,7 @@
 ﻿#language: ru
 @tree
 @ExportScenarios
+@IgnoreOnCIMainBuild
 @ЗаказТоваров
 
 Функционал: Подготовка тестовых данных для Заказов
